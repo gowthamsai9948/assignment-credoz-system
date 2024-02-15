@@ -1,2 +1,1 @@
-# assignment-credoz-system
-mg
+# sathyabama-assignment
